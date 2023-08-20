@@ -47,3 +47,6 @@
 
 ### Contributing to Android TensorFlow Lite Machine Learning Example
 Just make pull request. You are in!
+
+### Notebook for making the trained model
+[image classifier.ipynb](https://github.com/itz-sayak/Image-Classifier-Using-Transfer-Learning)
