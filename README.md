@@ -30,7 +30,7 @@
 
 ### License
 ```
-   Copyright (C) 2018 MINDORKS NEXTGEN PRIVATE LIMITED
+   Copyright (C) 2023 Sayak Dutta
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
